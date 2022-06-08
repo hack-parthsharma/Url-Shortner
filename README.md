@@ -1,2 +1,2 @@
 # Url-Shortner 
-A python implementation to shorten any url to tinyurl.
+A GUI Python implementation to shorten any url to tinyurl.
